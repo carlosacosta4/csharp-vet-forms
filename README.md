@@ -1,10 +1,5 @@
 # Veterinaria Animalia S.A - Formularios en CSharp
-Proyecto colaborativo de formularios en C# desarrollado en el ciclo II del curso de Proyecto Certificador de Desarrollo de Software - IDAT. Contiene formularios diseñados para una empresa veterinaria, abordando aspectos como gestión de pacientes, registros médicos y citas.
-
-<br>
-
-## ❗ Detalles Importantes del Proyecto
-Este proyecto fue desarrollado como parte del curso de Proyecto Certificador de Desarrollo de Software - IDAT - Ciclo II.
+Proyecto colaborativo de formularios en C# desarrollado en el ciclo II del curso de Proyecto Certificador de Desarrollo de Software I - IDAT. Contiene formularios diseñados para una empresa veterinaria, abordando aspectos como gestión de pacientes, registros médicos y citas.
 
 <br>
 
