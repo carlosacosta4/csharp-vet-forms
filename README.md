@@ -1,11 +1,14 @@
 # Veterinaria Animalia S.A - Formularios
 Repositorio de formularios en C# desarrollado por un equipo durante el ciclo II del curso de Proyecto Certificador de Desarrollo de Software. Contiene formularios diseñados para una empresa veterinaria, abordando aspectos como gestión de pacientes, registros médicos y citas.
 
+<br>
+
 ## ❗ Detalles Importantes del Proyecto
-Este proyecto fue desarrollado como parte del curso de Proyecto Certificador de Desarrollo de Software - IDAT.
+Este proyecto fue desarrollado como parte del curso de Proyecto Certificador de Desarrollo de Software - IDAT - Ciclo II.
 
-## Capturas de pantalla
+<br>
 
+## 📷 Capturas de pantalla
 <table style="width: 100%">
   <tr>
     <td style="width: 50%"><img src="CapturasPantalla/Encuesta.jpg" width=100% height=auto></td>
